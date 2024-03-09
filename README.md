@@ -1,5 +1,5 @@
-# Desafio FullStack
-CRUD criado para a Lista 03 da matéria de desenvolvimento Backend
+# Lista 03 (Criação de um CRUD)
+CRUD criado para a Lista 03 da matéria de desenvolvimento Backend utilizando NodeJS
 
 O projeto foi desenvolvido em locahost, dessa forma os endereços iniciais do projeto são:
 * Banco de dados: localhost:3306
